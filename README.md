@@ -7,8 +7,9 @@ GameCreater
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minmin0530" />
-</a>
-
+</a><br>
+  
+  
 ## game
 ### iOS
 [KURURI](https://apps.apple.com/jp/app/kururi/id1463318296)  

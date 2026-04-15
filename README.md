@@ -1,12 +1,9 @@
 # minmin0530
 Yoshiki Izumi  
 GameCreater  
+
+[!['bigaru.com']('https://github.com/user-attachments/assets/3396839d-d426-418f-b19a-2b8b56498fb0')]('https://www.youtube.com/watch?v=jEOrkVfYK0A')
   
-<div style="display: flex;">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="[https://github-readme-stats.vercel.app/api?username=minmin0530&count_private=true&show_icons=true](https://www.youtube.com/watch?v=jEOrkVfYK0A)" />
-</a>
-</div>
 <br>
   
 ## ポートフォリオ  

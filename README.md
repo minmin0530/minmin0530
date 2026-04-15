@@ -2,7 +2,7 @@
 Yoshiki Izumi  
 GameCreater  
 
-[!['bigaru.com']('https://github.com/user-attachments/assets/3396839d-d426-418f-b19a-2b8b56498fb0')]('https://www.youtube.com/watch?v=jEOrkVfYK0A')
+['bigaru.com']('https://www.youtube.com/watch?v=jEOrkVfYK0A')
   
 <br>
   

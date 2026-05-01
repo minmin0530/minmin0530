@@ -1,6 +1,6 @@
 # minmin0530
 Yoshiki Izumi  
-GameCreater  
+Game Creator  
 
 [![bigaru.com](https://img.youtube.com/vi/jEOrkVfYK0A/0.jpg)](https://www.youtube.com/watch?v=jEOrkVfYK0A)
   
